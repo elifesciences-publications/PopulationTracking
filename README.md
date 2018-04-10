@@ -1,5 +1,5 @@
 
-### This code is associated with the paper from O'Donnell et al., "PBeyond excitation/inhibition imbalance in multidimensional models of neural circuit changes in brain disorders". eLife, 2017. http://dx.doi.org/10.7554/eLife.26724
+### This code is associated with the paper from O'Donnell et al., "Beyond excitation/inhibition imbalance in multidimensional models of neural circuit changes in brain disorders". eLife, 2017. http://dx.doi.org/10.7554/eLife.26724
 
 
 # PopulationTracking
