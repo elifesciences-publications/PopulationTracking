@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from O'Donnell et al., "PBeyond excitation/inhibition imbalance in multidimensional models of neural circuit changes in brain disorders". eLife, 2017. http://dx.doi.org/10.7554/eLife.26724
+
+
 # PopulationTracking
 MATLAB code for implementing the Population Tracking neural data analysis method.
 
